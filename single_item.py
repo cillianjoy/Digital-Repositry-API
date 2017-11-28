@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 27 10:10:41 2017
+Created on Tues Nov 28 14:00:00 2017
 
-@author: Cillian Joy
-Python script to call NUI Galway Library Digital Respositry API and save results to csv
+@author: David Kelly
+Python script to call NUI Galway Library Digital Respositry API and retrieve a single 
+object, save it to JSON file; also save its image
 
 """
 
